@@ -6,7 +6,6 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = nil if s.respond_to? :required_rubygems_version=
   s.authors = ["Jonathan Dahl (Slantwise Design)"]
-  s.cert_chain = nil
   s.date = "2007-10-30"
   s.description = "Inspect and process video or audio files"
   s.email = "jon@slantwisedesign.com"
